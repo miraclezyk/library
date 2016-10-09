@@ -2,7 +2,8 @@ package domain;
 
 public class Book {
 
-	private Integer id;
+	//private Integer id;
+	private Integer test;
 	private String title;
 	private String description;
 	private String status;
