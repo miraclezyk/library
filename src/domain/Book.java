@@ -8,6 +8,7 @@ public class Book {
 	private String description;
 	private String status;
 	private String owner;
+	private String others;
 
 	public Integer getId() {
 		return id;
